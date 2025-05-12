@@ -99,7 +99,7 @@ time.sleep(0.5)
 face_match = False
 matched_name = "Unknown"
 
-person_image = fr.load_image_file("img1.jpg")
+person_image = fr.load_image_file("<PATH TO YOUR IMG>")
 person_face_encoding = fr.face_encodings(person_image)[0] #Inorder to save other faces we need to use access the image through load_image_file and then get the encodings of the image
 #the  format is same for all the other faces
 
