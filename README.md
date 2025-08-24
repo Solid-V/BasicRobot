@@ -1,4 +1,4 @@
-# DumbBot
+# DumBot
 Programmed a robot that moves, recognises you, and talks as well
 The movement script runs on a raspberry pi 4B model with 8gb of ram (this board is a bit slow but it gets the job done and you need a fast SD card to flash your os it uses the raspbian bookworm os for 64 bit systems)
 
